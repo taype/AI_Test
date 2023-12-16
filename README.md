@@ -36,3 +36,6 @@ Final Assignment.ipynb	15.3 kB	2023/4/18 19:00:41
 Final_Assignment Library.ipynb	11.6 kB	2023/4/18 00:19:43  
 WebScraping_Review_Lab.ipynb	95.7 kB	2023/4/14 22:47:42  
 
+## LLM API
+LangChain_Google_Gemini_API.ipynb 
+
